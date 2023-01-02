@@ -16,3 +16,10 @@ while(dev.isCoding())
 }
 ```
 <h2 align="center">My Recent Blog</h2>
+
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://roysubhradip.hashnode.dev/decision-trees-and-overfitting-simplified" title="Decision Trees and Overfitting - Simplified"><img src="https://github.com/roy-sub/roy-sub/blob/main/blog%20banner.png" alt="Decision Trees and Overfitting - Simplified" width="250px" align="left" /></a>
+<a href="https://roysubhradip.hashnode.dev/decision-trees-and-overfitting-simplified" title="Decision Trees and Overfitting - Simplified"><strong>Decision Trees and Overfitting - Simplified</strong></a>
+<br/> Decision trees are a form of machine learning techniques that are used for both regression and classification problems. The core principle underlying decision trees are partitioning the feature space into regions and then utilizing these regions to forecast the target variable. Here's a simple explanation. </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
