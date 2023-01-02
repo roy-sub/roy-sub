@@ -15,3 +15,4 @@ while(dev.isCoding())
   dev.drinkCoffee();
 }
 ```
+<h2 align="center">My Recent Blog</h2>
