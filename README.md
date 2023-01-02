@@ -27,8 +27,6 @@ while(dev.isCoding())
 <h2 align="center">Feel free reaching out to me at following platforms:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/subhradip-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.kaggle.com/subhradiproy"><img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png"></a> 
-  <a href="https://roysubhradip.hashnode.dev/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ByKpo_Aw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lxil6ifcwdx3fkukypc1.png"></a> 
   <a href="https://instagram.com/roy_subhradiproy?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://twitter.com/iam_roysubhra"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:subhrastien@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
