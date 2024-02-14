@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/roy-sub/roy-sub/blob/main/banner.gif)
 <h1 align="center">Hi there, I'm <a href="https://github.com/roy-sub">Roy</a>!</h1>
-<h3 align="center">A Machine Learning Engineer from India. I am currently working to be a Data Scientist ! I also write blogs about data science and machine learning.</h3>
+<h3 align="center">I build real-world ML products. And then help you do the same ! I also write blogs about data science and machine learning.</h3>
 <p align="center">57499347a7366a8fb5db17adb776841b</p>
 
 ```js
