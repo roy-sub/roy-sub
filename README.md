@@ -15,15 +15,6 @@ while(dev.isCoding())
   dev.drinkCoffee();
 }
 ```
-<h2 align="center">My Recent Blog</h2>
-
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://roysubhradip.hashnode.dev/a-beginners-guide-to-diffusion-models-understanding-the-basics-and-beyond" title="A Beginner's Guide to Diffusion Models: Understanding the Basics and Beyond"><img src="https://github.com/roy-sub/roy-sub/blob/main/girl-with-a-pearl-earring.jpeg" alt="A Beginner's Guide to Diffusion Models: Understanding the Basics and Beyond" width="250px" align="left" /></a>
-<a href="https://roysubhradip.hashnode.dev/a-beginners-guide-to-diffusion-models-understanding-the-basics-and-beyond" title="A Beginner's Guide to Diffusion Models: Understanding the Basics and Beyond"><strong>A Beginner's Guide to Diffusion Models: Understanding the Basics and Beyond</strong></a>
-<br/> The growth of the Diffusion Model can be attributed to the recent breakthrough in the field of AI generative artworks. In this essay, I'll show you how it works using illustrative graphics. From Psychology to Machine Learning understand the evolution of Diffusion Models and their impact on decision-making.</p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
 <h2 align="center">Feel free reaching out to me at following platforms:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/subhradip-roy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
